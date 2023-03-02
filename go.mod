@@ -9,8 +9,8 @@ require (
 	github.com/lyft/protoc-gen-star v0.6.0 // indirect
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/tools v0.1.10
-	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.3.0
+	google.golang.org/protobuf v1.28.1
 )
 
 require (
